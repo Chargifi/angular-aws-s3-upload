@@ -1,7 +1,7 @@
 {
-  "name": "angular-aws-s3-upload-chargifi",
-  "version": "1.0.3",
-  "homepage": "https://github.com/Chargifi/angular-aws-s3-upload",
+  "name": "angular-aws-s3-upload",
+  "version": "1.0.2",
+  "homepage": "https://github.com/Serhioromano/angular-aws-s3-upload",
   "authors": [
     "Serhioromano <serg4172@mail.ru>"
   ],
